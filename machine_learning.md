@@ -8,3 +8,5 @@
 - [Mikolov, et al. "Recurrent neural network based language model"](https://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf) - 2010
 - [Mikolov, et al. "Strategies for Training Large Scale Neural Netwhttp://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdforkLanguage Models"](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/12/ASRU-2011.pdf) - 2011
 - [Bengio, et al. "A Neural Probabilistic Language Model"](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) - 2003
+- [Bahdanau, Cho, Bengio. "Neural Machine Translation by Jointly Learning to Align and Translate"](https://arxiv.org/pdf/1409.0473.pdf) - 2015
+- [Sutskever, Vinyals, Le. "Sequence to Sequence Learning with Neural Networks"](https://arxiv.org/abs/1409.3215) - 2014
