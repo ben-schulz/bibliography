@@ -11,3 +11,4 @@
 - [Bahdanau, Cho, Bengio. "Neural Machine Translation by Jointly Learning to Align and Translate"](https://arxiv.org/pdf/1409.0473.pdf) - 2015
 - [Sutskever, Vinyals, Le. "Sequence to Sequence Learning with Neural Networks"](https://arxiv.org/abs/1409.3215) - 2014
 - [Zaremba and Sutskever. "Learning to Execute"](https://arxiv.org/abs/1410.4615) - 2014
+- [Goodfellow, Bengio, Courville. "Deep Learning"](https://www.deeplearningbook.org/) - 2016
