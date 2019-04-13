@@ -3,6 +3,7 @@
 ## introductory
 
 - [Andrej Karpathy. "The Unreasonable Effectiveness of Recurrent Neural Networks"](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - 2015
+- [Christopher Olah. "Understanding LSTM Networks"](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) - 2015
 
 ## exhaustive surveys
 
