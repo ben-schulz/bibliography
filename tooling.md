@@ -7,3 +7,7 @@
 ## pytorch
 
 - [api reference](https://pytorch.org/docs/stable/torch.html)
+
+## kafka
+
+- [api reference](https://kafka.apache.org/documentation/)
