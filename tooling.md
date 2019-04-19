@@ -11,3 +11,6 @@
 ## kafka
 
 - [api reference](https://kafka.apache.org/documentation/)
+
+## python nltk
+- [the book](http://www.nltk.org/book/)
