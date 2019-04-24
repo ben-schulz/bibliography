@@ -42,3 +42,9 @@
 ## ok wow
 - [Zaremba and Sutskever. "Learning to Execute"](https://arxiv.org/abs/1410.4615) - 2014
 - [Saxton, et al. "Analysing Mathematical Reasoning Abilities of Neural Models"](https://openreview.net/pdf?id=H1gR5iR5FX)
+
+# complex-valued models
+
+- [Guberman. "On Complex Valued Convolutional Neural Networks"](https://arxiv.org/pdf/1602.09046.pdf) - 2016
+- [Jalab and Ibrahim. "New Activation Functions for Complex-Valued Neural Network"](https://academicjournals.org/article/article1380723350_Jalab%2520and%2520Ibrahim.pdf) - 2018
+- [Scardapane, et al. "Complex-Valued Neural Networks with Non-Parametric Activation Functions"](https://arxiv.org/pdf/1802.08026.pdf) - 2018
