@@ -30,6 +30,8 @@
 
 - [Sutskever, Vinyals, Le. "Sequence to Sequence Learning with Neural Networks"](https://arxiv.org/abs/1409.3215) - 2014
 
+- [Hashimoto, Alvarez-Melis, and Jaakkola. "Word Embeddings as Metric Recovery in Semantic Spaces"](https://www.aclweb.org/anthology/Q16-1020) - 2016
+
 
 ## foundational models
 
