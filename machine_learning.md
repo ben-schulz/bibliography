@@ -50,3 +50,8 @@
 - [Guberman. "On Complex Valued Convolutional Neural Networks"](https://arxiv.org/pdf/1602.09046.pdf) - 2016
 - [Jalab and Ibrahim. "New Activation Functions for Complex-Valued Neural Network"](https://academicjournals.org/article/article1380723350_Jalab%2520and%2520Ibrahim.pdf) - 2018
 - [Scardapane, et al. "Complex-Valued Neural Networks with Non-Parametric Activation Functions"](https://arxiv.org/pdf/1802.08026.pdf) - 2018
+
+
+# manifold alignment
+
+[Wang and Mahadevan. "A General Framework for Manifold Alignment"](https://people.cs.umass.edu/~mahadeva/papers/aaai2009.pdf) - 2009
