@@ -55,4 +55,5 @@
 # manifold alignment
 
 [Wang and Mahadevan. "A General Framework for Manifold Alignment"](https://people.cs.umass.edu/~mahadeva/papers/aaai2009.pdf) - 2009
+
 [Wang, Krafft, and Mahadevan. "Manifold Alignment" (book chapter?)](http://www-anw.cs.umass.edu/pubs/2011/wang_k_m_11.pdf) - 2011
