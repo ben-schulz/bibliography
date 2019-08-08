@@ -4,3 +4,4 @@
 
 - [stats from the National Instant Criminal Background Check System (NICS)](https://www.fbi.gov/services/cjis/nics)
 - [United States Firearm Transfer Analysis (2005-2010)](https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/36358/version/1/datadocumentation#)
+- [U.S. DoJ Uniform Crime Reporting Program Data Series](https://www.icpsr.umich.edu/icpsrweb/ICPSR/series/57)
