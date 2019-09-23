@@ -1,3 +1,7 @@
+## books
+
+- [Boyd and Vandenberghe. _Introduction to Applied Linear Algbra_](http://vmls-book.stanford.edu/vmls.pdf) - 2018
+
 ## convex hulls
 
 ### theory
