@@ -16,6 +16,12 @@
 - [Goldberg. "A Primer on Neural Network Models for Natural Language Processing"](https://arxiv.org/pdf/1510.00726.pdf)
 
 
+## deeper theory
+
+- [Rolnick and Tegmark. "The power of deeper networks for expressing natural functions"](https://arxiv.org/abs/1705.05502) - 2017
+
+- [Jesse Johnson. "Deep, Skinny Neural Networks are not Universal Approximators"](https://arxiv.org/abs/1810.00393) - 2018
+
 ## nlp
 
 - [Bengio, et al. "A Neural Probabilistic Language Model"](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) - 2003
