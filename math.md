@@ -3,6 +3,10 @@
 - [Boyd and Vandenberghe. _Introduction to Applied Linear Algbra_](http://vmls-book.stanford.edu/vmls.pdf) - 2018
 - [Terrance Tao. _An Introduction to Measure Theory_](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf)
 
+## the fourier transform
+
+- [Julius Smith. Mathematics of the Discrete Fourier Transform.](https://ccrma.stanford.edu/~jos/mdft/mdft.html)
+
 ## convex hulls
 
 ### theory
