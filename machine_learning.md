@@ -1,6 +1,7 @@
 # interpretability
 
 - [Alvarez-Melis and Jaakkola. "Towards Robust Interpretability with Self-Explaining Neural Networks"](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks.pdf) - 2018
+-[Hooker et al. "A Benchmark for Interpretability Methods in DeepNeural Networks"](https://papers.nips.cc/paper/9167-a-benchmark-for-interpretability-methods-in-deep-neural-networks.pdf) - 2019
 
 # rnn
 
