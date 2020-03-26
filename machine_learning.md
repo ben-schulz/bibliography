@@ -1,3 +1,7 @@
+# interpretability
+
+- [Alvarez-Melis and Jaakkola. "Towards Robust Interpretability with Self-Explaining Neural Networks"](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks.pdf) - 2018
+
 # rnn
 
 ## tutorials
