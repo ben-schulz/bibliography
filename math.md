@@ -4,7 +4,9 @@
 - [Terrance Tao. _An Introduction to Measure Theory_](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf)
 - [Adamek, Herrlich, and Strecker. _Abstract and Concrete Categories_](http://katmat.math.uni-bremen.de/acc/acc.pdf) - 1990
 
-- [Tai-Danae Bradley. _At the Interface of Algebra and Statistics_](https://arxiv.org/pdf/2004.05631.pdf) - 2020.
+- [Tai-Danae Bradley. _At the Interface of Algebra and Statistics_](https://arxiv.org/pdf/2004.05631.pdf) - 2020
+
+- [Gilles and Szamuely. _Central Simple Algebras and Galois Cohomology_](http://www.math.ens.fr/~benoist/refs/Gille-Szamuely.pdf) - 2006
 
 ## the fourier transform
 
