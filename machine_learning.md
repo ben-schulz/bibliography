@@ -2,6 +2,7 @@
 
 - [Alvarez-Melis and Jaakkola. "Towards Robust Interpretability with Self-Explaining Neural Networks"](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks.pdf) - 2018
 - [Hooker et al. "A Benchmark for Interpretability Methods in DeepNeural Networks"](https://papers.nips.cc/paper/9167-a-benchmark-for-interpretability-methods-in-deep-neural-networks.pdf) - 2019
+- [Geirhos, et al. "Shortcut Learning in Deep Neural Networks"](https://arxiv.org/pdf/2004.07780.pdf) - 2020
 
 # rnn
 
