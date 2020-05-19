@@ -26,3 +26,7 @@
 ### differential equations
 
 [Gian-Carlo Rota. "Ten Lessons I Wish I Had Learned Before I Started Teaching Differential Equations".](https://web.williams.edu/Mathematics/lg5/Rota.pdf) - 1997.
+
+### probability
+
+[Richard P. Feynman. "Negative Probability".](http://cds.cern.ch/record/154856/files/pre-27827.pdf)
